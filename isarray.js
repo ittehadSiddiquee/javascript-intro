@@ -11,5 +11,5 @@ const age = 15 ;
  console.log(Array.isArray(age))
 
  //concat
-slide//
+// slide//
 
