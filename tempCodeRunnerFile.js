@@ -1,7 +1,4 @@
-NumbersOnly(numbers){
-//     console.log(numbers)
-//     // for(const number of numbers){
-//     // console.log(number);
-//     // }
-        
-// }
+Height = inchToFeet(75);
+// // console.log(shuvoHeight);
+// const shuvoHeight2 = inchToFeet2(75);
+// // console.log(shuvoHeight2)
